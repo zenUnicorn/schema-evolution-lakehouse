@@ -1,4 +1,4 @@
-# Runbook: Automating Schema Evolution (Article 2)
+# Runbook: Automating Schema Evolution
 
 Everything runs in **Cloud Shell**. No cluster, no SSH.
 Each Spark step is a Managed Service for Apache Spark batch and takes about 1 to 3 minutes to start and finish.
