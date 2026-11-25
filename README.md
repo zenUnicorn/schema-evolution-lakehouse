@@ -15,4 +15,6 @@ Sample code for the article on adding, widening, renaming, and dropping columns 
 | `sql/` | Spark and BigQuery SQL for each section |
 | `RUNBOOK.md` | Run order |
 
-Requirements: Managed Service for Apache Spark runtime 2.2. BigQuery DML and DDL on Apache Iceberg tables in the Lakehouse runtime catalog are in Preview.
+### Requirements: 
+- Managed Service for Apache Spark runtime 2.2.
+- BigQuery DML and DDL on Apache Iceberg tables in the Lakehouse runtime catalog are in Preview.
