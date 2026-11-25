@@ -1,0 +1,1 @@
+SELECT * FROM `${BQ_TABLE}` ORDER BY order_id

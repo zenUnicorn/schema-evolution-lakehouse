@@ -1,0 +1,1 @@
+SELECT * FROM `${PROJECT_ID}.${CATALOG_ID}.${NAMESPACE}.widen_demo` ORDER BY id
