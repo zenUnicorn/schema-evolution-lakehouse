@@ -90,5 +90,5 @@ gcloud biglake iceberg tables describe orders --project=$PROJECT_ID --catalog=$C
 
 ```bash
 zip -r captures.zip captures
-./scripts/99_cleanup.sh      # only after the article is approved
+./scripts/99_cleanup.sh    
 ```
